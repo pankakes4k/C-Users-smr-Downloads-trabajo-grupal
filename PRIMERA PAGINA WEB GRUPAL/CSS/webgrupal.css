@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Tarjeta Gráfica RTX 5090</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    header {
+      background-color: #1e2a38;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #dfe6e9;
+      padding: 15px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #0984e3;
+      font-weight: bold;
+    }
+    section {
+      padding: 20px;
+    }
+    img {
+      max-width: 300px;
+      margin: 10px;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Sección 1: Título -->
+  <header>
+    <h1>NVIDIA GeForce RTX 5090</h1>
+    <p>Potencia gráfica de nueva generación</p>
+  </header>
+
+  <!-- Sección 2: Enlaces a páginas del grupo -->
+  <nav>
+    <a href="pagina-alejandro.html">Alejandro</a>
+    <a href="pagina-lucia.html">Lucía</a>
+    <a href="pagina-david.html">David</a>
+    <a href="pagina-sara.html">Sara</a>
+  </nav>
+
+  <!-- Sección 3: Contenido temático -->
+  <section>
+    <h2>La revolución gráfica ha llegado</h2>
+    <p>La nueva tarjeta gráfica <strong>RTX 5090</strong> de NVIDIA ofrece un rendimiento sin precedentes para gamers y creadores. Con arquitectura Ada Lovelace, 24 GB de memoria GDDR7 y soporte para Ray Tracing de última generación, redefine lo que es posible en gráficos en tiempo real.</p>
+    <img src="imagenes/rtx5090-frontal.jpg" alt="Vista frontal de la RTX 5090">
+    <img src="imagenes/rtx5090-backplate.jpg" alt="Parte trasera de la RTX 5090">
+    <p>Gracias a su eficiencia energética mejorada y su capacidad para manejar resoluciones 4K y 8K, la RTX 5090 es ideal para experiencias inmersivas y flujos de trabajo exigentes.</p>
+  </section>
+
+</body>
+</html>
